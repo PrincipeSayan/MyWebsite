@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Stefano Fedeli.", "an engineering's student.", "working on something beautiful.", "a developer."],
+      strings: ["Stefano Fedeli.", "an engineer.", "working on something beautiful.", "a developer.","a crypto lover.","a podcaster."],
       typeSpeed: 100,
       loop: true,
     });
