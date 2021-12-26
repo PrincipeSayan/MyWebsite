@@ -1,0 +1,65 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Stefano Fedeli. Living in Zurich (Switzerland) doing research for Oracle as an inter. I have a strong passion for machine learning and data science, especially when applied to the medical domain. I'm also a blockchain enthusiast in my free time working on many ideas and projects. Host of Bitevolution on Spotify. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "IEEE BigData Pubblication",
+        "startDate": "2021",
+        "description": "Peer-reviewed paper called 'Privacy Preserving Survival Prediction' published at the IEEE BigData 2021 conference. Article developped from my masters' thesis in collaboration between Politecnico di Milano, KTH Royal Institute of Technology and Schain Research.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-r-original",
+            "name": "R"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Schain Research",
+        "title": "Data Scientist",
+        "years": "01.2021 - 09.2021",
+        "mainTech": [
+          "Graph Neural Network"
+        ],
+        "technologies": [
+          "Python",
+          "TensorFlow 2.0",
+          "R"
+        ]
+      },
+      {
+        "company": "Oracle",
+        "title": "Research Intern",
+        "years": "09.2021 - present",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "SQL",
+          "Kubernetes",
+          "Jenkins"
+        ]
+      }
+    ]
+  }
