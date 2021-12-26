@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Stefano Fedeli",
+      "titles": ["Computer Engineer in Zurich", "Machine Learning Researcher @ Oracle", "Blockchain Enthusiast", "Creative Maker", "Data Scientist Aspirant" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/StefanoFedeli",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "Podcast",
+          "url": "https://anchor.fm/bitevolution",
+          "class": "fab fa-spotify"
+        },
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/ste-fed/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Quora",
+          "url": "https://it.quora.com/profile/Ste-Fedeli",
+          "class": "fab fa-quora"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "TensorFlow",
+          "class": "devicon-tensorflow-original",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        {
+          "name": "Kubernetes",
+          "class": "devicon-kubernetes-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Agile",
+          "class": "devicon-jira-plain",
+          "level": "85"
+        },
+        {
+          "name": "SQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,65 @@
+{
+    "basic_info": {
+      "description_header": "Grazie",
+      "description": "Mi chiamo Stefano Fedeli. Grazie per essere qui a visitare il mio portfolio. Attualmente ricercatore a Zurigo per Oracle, vorrei continuare la mia carriera come Data Scientist focalizzandomi su l'applicazione di tecniche di Machine Learning. Nel tempo libero mi dedico ad altre passioni come il mio podcast BitEvolution ed analisi di progetti DeFi.",
+      "section_name": {
+        "about": "Chi Sono",
+        "projects": "Progetti",
+        "skills": "Skills",
+        "experience": "Esperienze"
+      }
+    },
+    "projects": [
+      {
+        "title": "IEEE BigData Pubblication",
+        "startDate": "2021",
+        "description": "Pubblicato un articolo scientifico dal nome 'Privacy Preserving Survival Prediction' alla conferenza IEEE BigData 2021. Articolo derivato dalla mia tesi magistrale conclusa in collaborazione con Politecnico di Milano, KTH Royal Institute of Technology and Schain Research.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-r-original",
+            "name": "R"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Schain Research",
+        "title": "Data Scientist",
+        "years": "01.2021 - 09.2021",
+        "mainTech": [
+          "Graph Neural Network"
+        ],
+        "technologies": [
+          "Python",
+          "TensorFlow 2.0",
+          "R"
+        ]
+      },
+      {
+        "company": "Oracle",
+        "title": "Research Intern",
+        "years": "09.2021 - presente",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "SQL",
+          "Kubernetes",
+          "Jenkins"
+        ]
+      }
+    ]
+  }
