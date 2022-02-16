@@ -15,9 +15,9 @@
         "startDate": "2021",
         "description": "Peer-reviewed paper called 'Privacy Preserving Survival Prediction' published at the IEEE BigData 2021 conference. Article developped from my masters' thesis in collaboration between Politecnico di Milano, KTH Royal Institute of Technology and Schain Research.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg"
+          "https://energycue.it/wp-content/uploads/2019/05/IEEE-logo-Close-up-Engineering.jpg"
         ],
-        "url": "",
+        "url": "https://ieeexplore.ieee.org/document/9672036",
         "technologies": [
           {
             "class": "devicon-tensorflow-original",
