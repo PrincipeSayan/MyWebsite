@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Grazie",
-      "description": "Mi chiamo Stefano Fedeli. Grazie per essere qui a visitare il mio portfolio. Attualmente ricercatore a Zurigo per Oracle, vorrei continuare la mia carriera come Data Scientist focalizzandomi su l'applicazione di tecniche di Machine Learning. Nel tempo libero mi dedico ad altre passioni come il mio podcast BitEvolution ed analisi di progetti DeFi.",
+      "description": "Mi chiamo Stefano Fedeli. Grazie per essere qui a visitare il mio portfolio. Attualmente vivo a Zurigo, vorrei continuare la mia carriera come Data Scientist focalizzandomi su l'applicazione di tecniche di Machine Learning. Nel tempo libero mi dedico ad altre passioni come il mio podcast BitEvolution ed analisi di progetti DeFi.",
       "section_name": {
         "about": "Chi Sono",
         "projects": "Progetti",
@@ -17,7 +17,7 @@
         "images": [
           "images/portfolio/animal-shelter/p1.jpg"
         ],
-        "url": "",
+        "url": "https://ieeexplore.ieee.org/abstract/document/9672036",
         "technologies": [
           {
             "class": "devicon-tensorflow-original",
@@ -51,7 +51,7 @@
       {
         "company": "Oracle",
         "title": "Research Intern",
-        "years": "09.2021 - presente",
+        "years": "09.2021 - 03.2022",
         "mainTech": [
           "Java"
         ],
@@ -59,6 +59,19 @@
           "SQL",
           "Kubernetes",
           "Jenkins"
+        ]
+      },
+      {
+        "company": "Sygnum Bank",
+        "title": "Tech Lead",
+        "years": "04.2022 - presente",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "Web3",
+          "OpenShift",
+          "Zeebe"
         ]
       }
     ]

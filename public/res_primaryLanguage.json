@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Stefano Fedeli. Living in Zurich (Switzerland) doing research for Oracle as an inter. I have a strong passion for machine learning and data science, especially when applied to the medical domain. I'm also a blockchain enthusiast in my free time working on many ideas and projects. Host of Bitevolution on Spotify. Thank you 💜",
+      "description": "👋 I'm Stefano Fedeli. Living in Zurich (Switzerland) enabling access to DeFi leading a team of developers. I have a strong passion for machine learning and data science, especially when applied to the medical domain. I'm also a blockchain enthusiast in my free time working on many ideas and projects. Host of Bitevolution on Spotify. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -59,6 +59,19 @@
           "SQL",
           "Kubernetes",
           "Jenkins"
+        ]
+      },
+      {
+        "company": "Sygnum Bank",
+        "title": "Tech Lead",
+        "years": "04.2022 - presente",
+        "mainTech": [
+          "Javascript"
+        ],
+        "technologies": [
+          "Web3",
+          "OpenShift",
+          "Zeebe"
         ]
       }
     ]
