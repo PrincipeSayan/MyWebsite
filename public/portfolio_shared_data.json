@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Stefano Fedeli",
-      "titles": ["Computer Engineer in Zurich", "Machine Learning Researcher @ Oracle", "Blockchain Enthusiast", "Creative Maker", "Data Scientist Aspirant" ],
+      "titles": ["Innovating in Zurich", "Tech Lead @ Sygnum Bank", "Founder of Mailo Global", "Web5 enthusiast", "Data Scientist Aspirant" ],
       "social": [
         {
           "name": "github",
@@ -22,6 +22,16 @@
           "name": "Quora",
           "url": "https://it.quora.com/profile/Ste-Fedeli",
           "class": "fab fa-quora"
+        },
+        {
+          "name": "Youtube",
+          "url": "https://youtube.com/@ing.crypto",
+          "class": "fab fa-youtube"
+        },
+        {
+          "name": "Medium",
+          "url": "https://fedelistefano.medium.com",
+          "class": "fab fa-medium"
         }
       ],
       "image": "myProfile.jpg"
@@ -31,37 +41,42 @@
         {
           "name": "Python",
           "class": "devicon-python-plain",
-          "level": "95"
+          "level": "80"
         },
         {
           "name": "TensorFlow",
           "class": "devicon-tensorflow-original",
-          "level": "95"
+          "level": "50"
         },
         {
           "name": "Java",
           "class": "devicon-java-plain",
-          "level": "80"
+          "level": "70"
         },
         {
           "name": "Kubernetes",
           "class": "devicon-kubernetes-plain",
-          "level": "90"
+          "level": "95"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "90"
         },
         {
           "name": "Agile",
           "class": "devicon-jira-plain",
-          "level": "85"
+          "level": "95"
         },
         {
           "name": "SQL",
           "class": "devicon-postgresql-plain",
-          "level": "60"
+          "level": "80"
+        },
+        {
+          "name": "Solidity",
+          "class": "devicon-solidity-plain",
+          "level": "80"
         }
       ]
     }
