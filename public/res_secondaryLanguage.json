@@ -38,7 +38,7 @@
         "startDate": "2022",
         "description": "Co-fondatore di Mailo Global. Mailo è una giovane startup che mira a sconvolgere il settore delle prove reali con un semplice accesso ai dati. Ho costruito la prima versione della piattaforma servita ai clienti.",
         "images": [
-          "public/images/portfolio/mailo/mailo.png"
+          "images/portfolio/mailo/mailo.png"
         ],
         "url": "https://mailo.global",
         "technologies": [
@@ -93,7 +93,7 @@
         ],
         "technologies": [
           "Web3",
-          "OpenShift",
+          "AWS",
           "Zeebe"
         ]
       }

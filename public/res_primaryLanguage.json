@@ -38,7 +38,7 @@
         "startDate": "2022",
         "description": "Co-founder of Mailo Global. Mailo is a young startup that aims to disrupt the real-world-evidence industry simply access to data. I've build the first version of the platform served to the customers.",
         "images": [
-          "public/images/portfolio/mailo/mailo.png"
+          "images/portfolio/mailo/mailo.png"
         ],
         "url": "https://mailo.global",
         "technologies": [
@@ -93,7 +93,7 @@
         ],
         "technologies": [
           "Web3",
-          "OpenShift",
+          "AWS",
           "Zeebe"
         ]
       }
